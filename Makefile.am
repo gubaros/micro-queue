@@ -1,2 +1,2 @@
 bin_PROGRAMS = cola 
-mydaemon_SOURCES = queue.c
+cola_SOURCES = queue.c
